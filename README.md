@@ -1,8 +1,8 @@
 # reto_01_Conversor_Divisas
 
 Proyecto desarrollado por: Alexander Anillo Trocha, Daniel Esteban Agudelo Duque, Heyder Barbosa Orrego, Lina Rocio Cardenas Fernandez y Yuly Andrea Castro Torres.
-Equipo 3 - NCR 2289
-Misión MinTic 2022
+/nEquipo 3 - NCR 2289
+/nMisión MinTic 2022
 
 Demo:
 

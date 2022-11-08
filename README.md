@@ -6,7 +6,7 @@ Equipo 3 - NCR 2289
 
 Misión MinTic 2022
 
-Nota: Los valores de las tasas de cambio (en base al COP) son: 
+Nota: Los valores de las tasas de cambio (en base al COP) son: USD: 3829, EUR: 4080
 
 # Demo:
 

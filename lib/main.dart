@@ -252,7 +252,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     fontWeight: FontWeight.w400,
                     fontSize: 12,
                     color: Color.fromARGB(255, 151, 150, 150)),
-                'EQUIPO 3\nYuly Andrea Castro Torres\nAlexander Anillo Trocha\nDaniel Esteban Agudelo Duque\nHeyder Barbosa Oreego\nLina Rocio Cardenas Fernandez',
+                'EQUIPO 3\nYuly Andrea Castro Torres\nAlexander Anillo Trocha\nDaniel Esteban Agudelo Duque\nHeyder Barbosa Orrego\nLina Rocio Cardenas Fernandez',
                 textAlign: TextAlign.center,
                 overflow: TextOverflow.ellipsis,
               )

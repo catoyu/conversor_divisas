@@ -1,4 +1,4 @@
-# reto_01_Conversor_Divisas
+# Reto 01: Conversor_Divisas
 
 Proyecto desarrollado por: Alexander Anillo Trocha, Daniel Esteban Agudelo Duque, Heyder Barbosa Orrego, Lina Rocio Cardenas Fernandez y Yuly Andrea Castro Torres.
 

@@ -2,7 +2,7 @@
 
 Proyecto desarrollado por: Alexander Anillo Trocha, Daniel Esteban Agudelo Duque, Heyder Barbosa Orrego, Lina Rocio Cardenas Fernandez y Yuly Andrea Castro Torres.
 
-Equipo 3 - NCR 2289
+Equipo 3 - NRC 2289
 
 Misión MinTic 2022
 
